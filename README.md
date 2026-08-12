@@ -73,6 +73,11 @@ Age: 22 years
 Height: 165.5 cm
 Favourite number: 7
 ```
+
+## 🎥 Project Video
+
+[▶️ Watch the Project Video](videoofproject.mp4)
+
 ---
 🌟 Learning Outcome
 This project is useful for understanding basic Python concepts such as:

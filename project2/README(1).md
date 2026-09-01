@@ -158,7 +158,7 @@ A `C:\Users\...` path works **only on your own computer**. It will not open the 
 If you later upload the MP4 into the GitHub repository, you can link it from the README using a relative path such as:
 
 ```markdown
-[🎬 Watch Demo Video](2026-09-01%2021-08-49.mp4)
+[🎬 Watch Demo Video](https://drive.google.com/file/d/19QCNjBSD4k1-N4M3D98BW7FmB0ZkV2bn/view?usp=sharing)
 ```
 
 ---

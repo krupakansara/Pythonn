@@ -148,7 +148,7 @@ python Logicbox.py
 The original video is located on the local computer at:
 
 ```text
-C:\Users\Admin\Desktop\Python\Projects\project2\2026-09-01 21-08-49.mp4
+https://drive.google.com/file/d/19QCNjBSD4k1-N4M3D98BW7FmB0ZkV2bn/view?usp=sharing
 ```
 
 ### 📌 GitHub Note
